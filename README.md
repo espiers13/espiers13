@@ -5,4 +5,4 @@
 - 🐈‍⬛ Cat: Betty
 - 🐝 Based in: Manchester
 
-- 🌱 I’m currently learning Software Development Bootcamp
+- 🌱 I’m currently learning UX / UI
